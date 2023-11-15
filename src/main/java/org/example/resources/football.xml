@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Teams>
+    <Team id="0" name="Man" money="1900000">
+        <Player id="0" name="Fire"/>
+        <Player id="1" name="Earth"/>
+        <Player id="2" name="Wind"/>
+        <Player id="3" name="Water"/>
+    </Team>
+    <Team id="1" name="Man2" money="3200000">
+        <Player id="4" name="Stone"/>
+        <Player id="5" name="Quarts"/>
+    </Team>
+</Teams>
